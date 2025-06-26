@@ -3,6 +3,8 @@
 ## ✅ What I Did in This Lab
 I explored commands like df, du, fsck, and tune2fs to inspect, analyze, and repair ext-based and XFS filesystems. I created a broken loopback filesystem on purpose to simulate real-world repair scenarios using e2fsck and xfs_repair.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
 [EXAM OBJECTIVE 104.2](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.2_Maintain_the_integrity_of_filesystems)
 
 [OBJ.104.2 NOTES]()

@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 104.2](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.2_Maintain_the_integrity_of_filesystems)
 
-[OBJ.104.2 NOTES]()
+[OBJ.104.2 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EX-TVs6Qv_5Dqwo0O10_9d0BlzoEQxHypsHsM2ivdF9P6A?e=lsPWIW)
 
-[OBJ. 104.2 LAB]()
+[OBJ. 104.2 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EcROq1N9bmZIlNo6gvoMbuoBnuJ4m34KcYRUJgFWolrWwQ?e=xDklyO)
 
 ---
 
